@@ -1,4 +1,4 @@
-sudo apt-get -y install git cmake
+sudo apt-get -y install git cmake g++
 sudo apt-get -y install compton
 sudo apt-get -y install openbox
 sudo apt-get -y install libfm-dev
