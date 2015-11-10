@@ -1,4 +1,5 @@
 sudo apt-get -y install git cmake g++
+sudo apt-get -y install qttools5-dev qttools5-dev-tools
 sudo apt-get -y install compton
 sudo apt-get -y install openbox
 sudo apt-get -y install libfm-dev
@@ -28,4 +29,9 @@ sudo apt-get -y install liboobs-1-dev
 sudo apt-get -y install libxkbcommon-x11-dev
 sudo apt-get -y install libxcomposite-dev
 sudo apt-get -y install qtscript5-dev
+sudo apt-get -y install libqt5x11extras5-dev
+sudo apt-get -y install libqt5svg5-dev
+sudo apt-get -y install libkf5screen-dev
+sudo apt-get -y install libxcursor-dev
+
 
