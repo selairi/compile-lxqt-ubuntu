@@ -14,5 +14,6 @@ git clone https://github.com/selairi/compile-lxqt-ubuntu.git
 And finally run script:
 
 cd compile-lxqt-ubuntu
+
 bash install-lxqt.sh
 
