@@ -32,6 +32,7 @@ sudo apt-get -y install qtscript5-dev
 sudo apt-get -y install libqt5x11extras5-dev
 sudo apt-get -y install libqt5svg5-dev
 sudo apt-get -y install libkf5screen-dev
+sudo apt-get -y install libkf5screen-bin
 sudo apt-get -y install libxcursor-dev
 
 
