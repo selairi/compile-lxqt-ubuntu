@@ -1,5 +1,5 @@
 # compile-lxqt-ubuntu
-Simple script to build LXQt proyect in Ubuntu 15.10.
+Simple script to build LXQt proyect in Ubuntu 15.10 and 16.04.
 
 Script will install dependencies. After that script will download LXQt sources, compile and install it.
 
