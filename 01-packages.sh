@@ -3,7 +3,7 @@ sudo apt-get -y install git cmake g++
 sudo apt-get -y install qttools5-dev qttools5-dev-tools
 sudo apt-get -y install compton
 sudo apt-get -y install openbox
-sudo apt-get -y install libfm-dev
+#sudo apt-get -y install libfm-dev
 sudo apt-get -y install libasound2-dev
 sudo apt-get -y install automake
 sudo apt-get -y install gtk-doc-tools
@@ -35,5 +35,7 @@ sudo apt-get -y install libqt5svg5-dev
 sudo apt-get -y install libkf5screen-dev
 sudo apt-get -y install libkf5screen-bin
 sudo apt-get -y install libxcursor-dev libxss-dev
-
+sudo apt-get -y install libkf5idletime-dev
+sudo apt-get -y install libmuparser-dev 
+sudo apt-get -y install libgtk2.0-dev
 
