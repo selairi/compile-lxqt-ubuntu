@@ -1,6 +1,7 @@
 sudo apt-get update
 sudo apt-get -y install git cmake g++
 sudo apt-get -y install qttools5-dev qttools5-dev-tools
+sudo apt-get -y install dbux-x11
 sudo apt-get -y install compton
 sudo apt-get -y install openbox
 #sudo apt-get -y install libfm-dev
