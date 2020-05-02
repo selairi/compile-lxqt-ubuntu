@@ -41,5 +41,6 @@ sudo apt-get -y install libmuparser-dev
 sudo apt-get -y install libgtk2.0-dev
 sudo apt-get -y install intltool libjson-glib-dev
 sudo apt-get -y install xserver-xorg-input-libinput-dev
+sudo apt-get -y install libxcb-randr0-dev xcb libx11-xcb-dev
 sudo apt install policykit-1 upower gvfs-backends gvfs-fuse
 
